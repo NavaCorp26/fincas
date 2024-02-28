@@ -1,0 +1,56 @@
+@font-face {
+	font-family: 'century-gothic';
+	src: url('assets/font/century-gothic.ttf') format('truetype');
+}
+
+#menu {
+	background-color: #f8f9fa;
+	color: #000;
+}
+
+#home {
+	padding: 0px;
+}
+
+.section {
+	padding-top: 70px;
+	padding: 48px;
+}
+
+.section h2 {
+    margin-top: 70px;
+    margin-bottom: 40px;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    position: relative;
+}
+
+
+
+.section p {
+	text-align: justify;
+}
+
+.carousel-caption p {
+	text-align: center;
+}
+
+.list-icons {
+	list-style: none;
+	padding: 16px;
+	background-repeat: no-repeat;
+	background-size: 24px 24px;
+	background-position: center;
+	cursor: pointer;
+	padding-left: 20px;
+	margin-right: 10px;
+	margin-left: 10px;
+
+}
+
+.list-icons img {
+	display: inline-block;
+	width: 24px;
+	height: 24px;
+}
